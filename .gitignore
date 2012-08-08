@@ -9,3 +9,6 @@ Thumbs.db
 
 /WebGitNet/Plugins/
 /WebGitNet/Views/PluginCache/
+
+#ReSharper Caches
+_ReSharper.*
